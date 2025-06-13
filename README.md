@@ -31,9 +31,9 @@ A batch script utility for quickly launching SpiderFoot and opening its web inte
 ## Usage
 - Run the batch file
 - The script will:
-   Launch SpiderFoot on 127.0.0.1:5001
-   Wait 5 seconds for initialization
-   Open Chrome to the SpiderFoot web interface
+-   Launch SpiderFoot on 127.0.0.1:5001
+-   Wait 5 seconds for initialization
+-   Open Chrome to the SpiderFoot web interface
 
 ## Configuration
 To customize paths, edit these variables in the batch file:
