@@ -48,10 +48,11 @@ SpiderFoot runs on: http://127.0.0.1:5001
 ## Version
 Current version: 1.0
 
-## Author
-Jacob Wilson
-DFIR Vault
-dfirvault@gmail.com
+## 👤 Author
+
+**Jacob Wilson**  
+📧 dfirvault@gmail.com
+[https://www.linkedin.com/in/jacob--wilson/](https://www.linkedin.com/in/jacob--wilson/)
 
 ## Notes
 - Ensure Python is in your system PATH
