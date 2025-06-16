@@ -54,6 +54,9 @@ Current version: 1.0
 📧 dfirvault@gmail.com
 [https://www.linkedin.com/in/jacob--wilson/](https://www.linkedin.com/in/jacob--wilson/)
 
+**More information:**
+[https://dfirvault.com](https://dfirvault.com)
+
 ## Notes
 - Ensure Python is in your system PATH
 - First run may take longer as SpiderFoot initializes its database
